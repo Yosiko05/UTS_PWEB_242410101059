@@ -1,7 +1,5 @@
 @extends('layouts.app')
-
 @section('title', 'Login — Task Manager')
-
 @section('styles')
     <style>
         @media (max-width: 576px) {

@@ -1,7 +1,5 @@
 @extends('layouts.app')
-
 @section('title', 'Dashboard')
-
 @section('content')
 
 {{-- Header --}}
@@ -14,7 +12,7 @@
         <i class="bi bi-calendar3 me-1"></i>{{ date('d M Y') }}
     </div>
 </div>
-{{-- Stat Cards --}}
+{{-- Cards --}}
 <div class="row g-3 mb-4">
     <div class="col-6 col-md-3">
         <div class="stat-card">
