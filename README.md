@@ -7,8 +7,7 @@ Website ini merupakan **Web Pengelolaan tugas bagi mahasiswa**. Pengerjaan mengg
 ![Login](public/images/login.png)
 ![Dashboard](public/images/dashboard.png)
 ![Pengelolaan](public/images/Pengelolaan.png)
-![profil](public/images/profil 1.png)
-![profil2](public/images/profil 2.png)
+![profil](public/images/profil.png)
 
 # Font
 ### Sogue UI
